@@ -53,4 +53,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eniszgr&show_icons=true&locale=en&layout=compact" alt="eniszgr" /></p>
 
-![snake gif](https://github.com/eniszgr/eniszgr/blob/output/github-contribution-grid-snake.gif)
