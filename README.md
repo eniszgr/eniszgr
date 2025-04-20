@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enis ÖZGÜR</h1>
-- 🔭 I’m currently working on **.NET CORE**
+- 🔭 I’m currently working on Web Technologies
 
 - 🌱 I’m currently learning **MERN**
 
