@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enis ÖZGÜR</h1>
 - 🔭 I’m currently working on **.NET CORE**
 
-- 🌱 I’m currently learning **Entity and JavaScript**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **zgr.enis@gmail.com**
 
