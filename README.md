@@ -9,33 +9,22 @@
 
 <div align="left">
   <h3>🛠 Language and tools</h3>
-  <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="npm"height="40" width="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="40" width="40"/> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" width="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="40"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" height="40" width="40"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"height="40" width="40"/>
-  <img width="12" />
- <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker"height="40" width="40"/>
-  <img width="12" />
-
-   
-  
+  <table>
+    <tr>
+      <td><img src="https://www.svgrepo.com/show/452077/npm.svg" alt="npm" height="40" width="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" width="40" alt="dotnet"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react"/></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="40" width="40" alt="tailwind"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="css3"/></td>
+      <td><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" width="40" alt="bootstrap"/></td>
+      <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" width="40" alt="mssql"/></td>
+      <td><img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" width="40" alt="docker"/></td>
+    </tr>
+  </table>
 </div>
 <br/>
 
