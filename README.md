@@ -23,6 +23,8 @@
       <td><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" width="40" alt="bootstrap"/></td>
       <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" width="40" alt="mssql"/></td>
       <td><img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" width="40" alt="docker"/></td>
+      <td><img style="width:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s"/></td>
+      
     </tr>
   </table>
 </div>
